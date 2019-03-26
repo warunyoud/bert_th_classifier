@@ -1,0 +1,6 @@
+venv
+data/*
+model/*
+output
+bpe/*
+.*
