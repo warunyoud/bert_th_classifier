@@ -1,5 +1,5 @@
 export BPE_DIR=bpe/th_wiki_bpe
-export WONGNAI_DIR=data/wongnai_post
+export WONGNAI_DIR=data/wongnai_review
 export OUTPUT_DIR=output/wongnai_th
 export BERT_BASE_DIR=model/bert_base_th
 
